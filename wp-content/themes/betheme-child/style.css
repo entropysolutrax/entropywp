@@ -11,4 +11,41 @@ Version: 		1.4
 /* Theme customization starts here
 -------------------------------------------------------------- */
 
-
+.home_slider{
+	text-align:center;	
+	font-size: 18px;
+}
+.home_slider h2{
+	color: #8C5DDE;
+	text-shadow: none;
+	font-size: 36px;
+	line-height: 42px;
+	background-color: transparent;
+	text-decoration: none;
+	border-width: 0px;
+	border-color: #000000;
+	border-style: none;
+}
+.aboutus p{
+	font-size:20px;
+	line-height:30px;
+}
+.aboutus b{
+	font-size:30px;
+	line-height:40px;
+	font-weight:normal;
+}
+.whychoose_1{
+	background:url(http://localhost/entropywp/wp-content/uploads/2017/07/1.png) no-repeat ;
+	padding-left:90px;
+}
+.whychoose_1 h3, .whychoose_2 h3{
+	color:#8c5dde;
+}
+.whychoose_2{
+	background:url(http://localhost/entropywp/wp-content/uploads/2017/07/2.png) no-repeat ;
+	padding-left:100px;
+}
+.portfolio img{
+	width:100%;
+}
